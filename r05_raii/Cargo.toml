@@ -1,0 +1,9 @@
+[package]
+name = "r05_raii"
+version = "0.1.0"
+edition = "2024"
+
+# [dependencies]
+# rusqlite = "0.40.1"
+[dependencies]
+rusqlite = "0.32.1"

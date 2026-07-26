@@ -1,0 +1,12 @@
+[package]
+name = "r02-sum"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.104"
+rayon = "1.12.0"
+serde = "1.0.229"
+serde_json = "1.0.151"
+thiserror = "2.0.19"
+tokio = "1.53.1"

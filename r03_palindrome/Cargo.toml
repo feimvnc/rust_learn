@@ -1,0 +1,7 @@
+[package]
+name = "r03_palindrome"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+my_crate = "0.1.0"
